@@ -9,7 +9,7 @@
     tools:context=".CoffeeListActivity">
 
 
-    <ScrollView
+    <HorizontalScrollView
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -19,9 +19,9 @@
             android:id="@+id/coffeeListContainer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
+            android:gravity="clip_horizontal"
             android:orientation="horizontal">
         </LinearLayout>
-    </ScrollView>
+    </HorizontalScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
