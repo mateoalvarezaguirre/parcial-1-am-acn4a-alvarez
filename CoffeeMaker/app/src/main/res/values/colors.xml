@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="coffee_brow">#543a20</color>
+    <color name="coffee_brow_light">#9F5524</color>
 </resources>
