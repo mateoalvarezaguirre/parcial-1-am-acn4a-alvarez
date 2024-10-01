@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.CoffeeMaker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/coffee_brown</item>
+    </style>
+    <style name="Theme.CoffeeMaker" parent="Base.Theme.CoffeeMaker">
+        <item name="android:windowSplashScreenBackground">@color/coffee_brown</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/coffee_maker_logo_white</item>
+        <item name="android:windowSplashScreenAnimationDuration">3000</item>
+        <item name="android:fontFamily">@font/poppins_font_family</item>
+    </style>
+</resources>
