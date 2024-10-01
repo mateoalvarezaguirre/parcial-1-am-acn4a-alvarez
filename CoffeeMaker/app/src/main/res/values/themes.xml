@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.CoffeeMaker" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-         <item name="colorPrimary">@color/coffee_brow</item>
+         <item name="colorPrimary">@color/coffee_brown</item>
     </style>
 
     <style name="Theme.CoffeeMaker" parent="Base.Theme.CoffeeMaker" >

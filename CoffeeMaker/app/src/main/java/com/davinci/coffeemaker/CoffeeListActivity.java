@@ -31,7 +31,7 @@ public class CoffeeListActivity extends AppCompatActivity {
             return insets;
         });
 
-        ArrayList<Coffee> coffeeList = new ArrayList<Coffee>();
+        ArrayList<Coffee> coffeeList = new ArrayList<>();
 
         coffeeList.add(
                 new Coffee(
