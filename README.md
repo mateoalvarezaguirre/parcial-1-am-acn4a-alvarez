@@ -9,9 +9,9 @@ Coffee Maker es una aplicación educativa para Android que muestra una lista de 
 - Pantalla de carga personalizada (Splash Screen) al iniciar la aplicación.
 
 ## Requisitos
-- Android Studio 4.0 o superior.
+- Android Studio Arctic Fox (2020.3.1) o superior.
 - Java Development Kit (JDK) 8 o superior.
-- Emulador o dispositivo Android con API 21 (Android 5.0) o superior.
+- Emulador o dispositivo Android con API 24 (Android 7.0) o superior.
 
 ## Instalación
 1. Clona este repositorio en tu máquina local: `git clone https://github.com/mateoalvarezaguirre/parcial-1-am-acn4a-alvarez`
